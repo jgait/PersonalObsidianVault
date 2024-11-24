@@ -1,0 +1,5 @@
+- [ ] Trashcan
+- [ ] Bowls Plates
+- [ ] Electric kettle
+- [ ] Standing desk
+- [ ] Black desk

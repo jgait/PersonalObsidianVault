@@ -1,0 +1,2 @@
+[[Index - Climate Refugees]]
+Solastalgia is a form of homesickness one gets when one is still at home, but the environment has been altered and feels unfamiliar. The term is specifically referencing change caused by chronic change agents like climate change or mining. Used primarily to describe the negative psychological effect of chronic environmental destruction on an individuals homeland, or the place they call home. The condition is often “exacerbated by a sense of powerlessness or lack of control over the unfolding change process.*”

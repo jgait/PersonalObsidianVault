@@ -1,0 +1,1 @@
+An optimal control approach based upon minimization of an error function relative to a target state in order to achieve the desired behavior. The minimization is subject to some desired constraints

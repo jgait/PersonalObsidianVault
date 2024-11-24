@@ -1,0 +1,14 @@
+- Shadow lines
+- Part orientation (90, 45, 0)
+- Anatomy of a 3d print (Multicolor!)
+- Types of infill
+- Strength optimization
+- Strategies for holes
+- Fastening and embedding
+- overhang strategies (sacraficial bridges, stepped holes)
+- 3D printed threads
+- Print in place (hinges, gears)
+- Compliant mechanisms (bendy stuff, mechanisms, folding enclosure)
+- mechanisms (Cams)
+- Resin pours
+- Design study (8020 bracket)

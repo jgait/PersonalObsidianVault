@@ -1,0 +1,12 @@
+[[Index - Senior Design Plant Movement]]
+- [ ] Get everyone on drive
+- [ ] Get everyone on git
+- [ ] Get a group calendar up and running
+- [ ] Try to get everyone to use Gcal
+- [ ] Share calendars with each other
+- [ ] Get a slack up and running 
+- [ ] Setup drive file structure and import files
+- [ ] Email Yao to set up meeting
+- [ ] Email Jay + Yao 
+- [ ] Assign SPOC
+- [ ] Assign Team Shopper

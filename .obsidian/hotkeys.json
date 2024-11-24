@@ -1,0 +1,59 @@
+{
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspace:toggle-stacked-tabs": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageUp"
+    }
+  ]
+}

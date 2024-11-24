@@ -1,0 +1,34 @@
+
+- 18AWG stranded wire [good source](https://www.remingtonindustries.com)
+- 22AWG solid core wire
+- 22AWG stranded wire 
+- many wire Ribbon wire
+- 4 wire ribbon wire 18awg
+- Heat shrink
+- Braided wrap
+- Dupont crimp kits
+- Jst crimp kits
+- Wire ferrule kits
+- Wago connectors
+- Solder 
+- Solder heatshrink
+- Buttons, Switches, and Toggles
+- M3 M4 and M5 hardware
+- Arduino proto shields
+- Arduino screw terminal shields
+- 12v to 5v regulators
+- Variable step down regulators
+- 12v power supplies
+- Arduinos
+- TB6600 stepper motor drivers
+- Stepper motors
+- Break beam sensors
+- batteries
+- potentiometers
+- Adafruit motor shields
+- electrical tape
+- 9v batteries
+- 9v battery jacks
+- LEDs
+- Sticky ziptie mounts
+- 

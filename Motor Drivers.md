@@ -1,0 +1,1 @@
+[Solo motor driver](https://www.solomotorcontrollers.com/) --> Much like Odrive, closed source

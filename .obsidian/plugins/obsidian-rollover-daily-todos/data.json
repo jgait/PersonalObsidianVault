@@ -1,0 +1,6 @@
+{
+  "templateHeading": "### To-do:",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": true,
+  "rolloverChildren": false
+}

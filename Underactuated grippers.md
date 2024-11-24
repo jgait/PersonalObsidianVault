@@ -1,0 +1,3 @@
+A 3 finger hand that features severe under-actuation, one motor with 3 two joint fingers and the ability to achieve 21 different grip patterns  https://www.youtube.com/watch?v=oKXz-t6UalI
+
+More behaviors with underactuated grippers can be achieved by driving joints using different tendons for each joint connected to different pulleys driven by the same motor. https://www.youtube.com/watch?v=aZarK14oxxs

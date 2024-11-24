@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"Statistical Variables\n[[Index - Data Science for Physical Scientists]]","id":"01171a4e4775caab","x":-280,"y":-320,"width":250,"height":160},
+		{"type":"text","text":"**Categorical**\n","id":"ea771f8411e102ae","x":-71,"y":-36,"width":250,"height":60},
+		{"type":"text","text":"**Numerical**\nQuantities that can be measured","id":"5582412ea1950e6f","x":-440,"y":-36,"width":254,"height":96}
+	],
+	"edges":[
+		{"id":"29741872929115e7","fromNode":"01171a4e4775caab","fromSide":"bottom","toNode":"5582412ea1950e6f","toSide":"top"},
+		{"id":"d18c8226063b29f7","fromNode":"01171a4e4775caab","fromSide":"bottom","toNode":"ea771f8411e102ae","toSide":"top"}
+	]
+}

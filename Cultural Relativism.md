@@ -1,0 +1,1 @@
+**[[Culture|Cultural]] relativism** is the view that ethical and social standards reflect the cultural context from which they are derived

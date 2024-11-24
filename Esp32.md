@@ -1,0 +1,1 @@
+**Safe pins to use (s3)** - (https://github.com/atomic14/esp32-s3-pinouts)

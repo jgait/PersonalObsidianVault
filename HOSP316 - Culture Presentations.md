@@ -1,0 +1,93 @@
+# Brazil
+- **Background**
+	- Largest country in south America
+	- Speaks Portuguese
+- **Unique cultural traditions**
+	- Religion, 80% practice with 2/3 of pop being roman catholic
+	- Tiradentes day, ceremony for Joaquim hose who led a revolt against Portuguese
+	- Capoeira - Dance like martial arts sport
+	- CARNICAL - Big celebration
+		- Dancing
+		- African influence
+		- Samba dancing
+		- Old (17th century)
+- **Business etiquette** 
+	- Relationship-Centric (High Context)
+		- Face to face meetings
+		- Punctuality
+		- Long term focus
+		- Flexibility 
+	- Respect for authority
+		- Gift giving in a business context
+	- Government bureaucracy
+		- Complex Taxation
+		- Strict Regulation
+			- Labor, Ports, Permits, Patents, Environment
+		- Somewhat corrupt (38/100 CPI)
+- **Social Etiquette** 
+	- Very friendly with greeting (Handshake, hug, kiss)
+	- Comfortable with less personal space
+	- Punctuality is not as important
+- **Dining Etiquette**
+	- Lunch is heavier dinner is lighter
+	- Fork and knife for many things (Pizza, hamburger, hotdog, empanada)
+	- Tipping (10-15% normally included)
+	- Good drink -> Caipirinha (Cachaca, lime, sugar)
+	- Feijoada (Saturday lunch stew)
+		- Beans, beef, pork, white rice, cassava flour, cooked veggies
+	- Sharing and buffets
+- **Interesting Facts**
+	- Sao Paulo is add free city
+	- Dolphins and fisherman work together in southern brazil
+# Russia
+- **Greetings**
+	- Shake hands firmly without glove
+- **Holidays**
+	- New years - forgive those who have wronged you
+	- Christmas - Russians celebrate Christmas twice on Dec 25th and Jan 7th
+	- Soldiers day
+- **Social Etiquette**
+	- Public
+		- direct 
+		- reserved
+		- closed off
+		- formal
+	- Private
+		- Warm Emotional
+- **Dining and social etiquette**
+	- When going to someone's home bring a gift
+		- If bring flowers bring an uneven amount of flowers (otherwise funeral, dont bring 13)
+	- Eating
+		- Follow directions of host
+		- only eat when host eats
+	- Don't show soles of shoes
+	- Don't sit with legs open
+- **Business**
+	- Be punctual
+	- present business card with both hands
+	- Offer food and drinks 
+	- Confirm meetings by phone
+- **Other cultural practice**
+	- Don't whistle indoors
+		- brings financial ruin
+	- Don't hand people money
+	- Never gift someone a knife
+		- Turns someone to your enemy
+	- Respect Babushka (Grandmother)
+		- Give up train seat etc
+		- Pregnant women too
+	- Drinking is common
+		- Vodka big (actually created in Poland)
+	- Russians wear wedding ring on right hand
+- **Facts**
+	- Cats protect art from rats and mice in the hermitage museum of art and culture
+	- Tetris was invented in Russia
+	- Strong literary tradition
+
+# Japan
+- **Intro and history**
+	- Pacific Islands right off mainland east Asia
+	- 99.2% of people speak Japanese
+	- GDP 4.9 trillion
+- **Cultural stuff**
+

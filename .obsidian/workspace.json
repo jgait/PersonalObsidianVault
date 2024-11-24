@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "848e75afcc82cad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e20f8b38029a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f96ef670ebc7432",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "School Kanban.md"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "81086c8c36ba8f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Website Re-Vamp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Website Re-Vamp"
+            }
+          },
+          {
+            "id": "dbc86549b98d60ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "439c4d1a619a6d94",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "24a9ee9c7af8a981",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7e77f355d1439a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "031d6ea8a8a70ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bcd96d0e5156ae4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd8d022343618b70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79a9529f80eb5dfe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ad5e0f9c25936ed2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "79aaa69bb9c5762a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a33c2d20d8db27e",
+        "type": "tabs",
+        "dimension": 44.05339805825243,
+        "children": [
+          {
+            "id": "fe0ca251a64c1c0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Website Re-Vamp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Personal Website Re-Vamp"
+            }
+          },
+          {
+            "id": "19aa898db7da0e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal Website Re-Vamp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Personal Website Re-Vamp"
+            }
+          },
+          {
+            "id": "07fcc3b5099408a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bad35c97e94ca595",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal Website Re-Vamp.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Personal Website Re-Vamp"
+            }
+          },
+          {
+            "id": "7fdbb6cccd819599",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4e712081f44b6aba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "067a96634b0bc382",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5974dbc99ac022e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "48a51fc1af839a02",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Personal Website Re-Vamp.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Personal Website Re-Vamp"
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "3ef56e291217efd7",
+        "type": "tabs",
+        "dimension": 55.94660194174757,
+        "children": [
+          {
+            "id": "f58d6b9c16ddc164",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-reset-font-size:Reset Font Size": false
+    }
+  },
+  "active": "439c4d1a619a6d94",
+  "lastOpenFiles": [
+    "Personal Website Re-Vamp.md",
+    "Git No GPG Agent.md",
+    "Nullity.md",
+    "RPi Pico (rp2040) Notebook.md",
+    "HORCLab/Group Meeting Notes/Camryn - Thesis Presetation.md",
+    "Companies of Interest.md",
+    "4+1 Classes.md",
+    "MOOS Middleware.md",
+    "Stergios - Methods for Swarm Leader Identification.md",
+    "Europe Destinations.md",
+    "Numerically Controlled Oscillator.md",
+    "Serial Port Wizardry.md",
+    "Bio-Inspired Surfaces.md",
+    "Bioinspired Compliant Projectile.md",
+    "HORCLab/Group Meeting Notes/Camryn - Ankle Foot Prosthetic.md",
+    "Architecture Design.md",
+    "School Kanban.md",
+    "().md",
+    "Bio Morphology.md",
+    "Recipe Box.md",
+    "AGzen Interview.md",
+    "Daily Notes/2024-04-03.md",
+    "www.YouTube.com",
+    "Images/Pasted image 20240402205318.png",
+    "Images/Pasted image 20240402193326.png",
+    "Bayesian Statistics.md",
+    "Choosing a Model.md",
+    "Daily Notes/2024-04-02.md",
+    "Images/225F53AC-0506-4C75-AE8A-BC518C196D17.webp",
+    "3D Printing Info Board.md",
+    "Dishwasher State Flow.canvas",
+    "Images/Pasted image 20240310232751.png",
+    "Images/Pasted image 20240226114314.png",
+    "Statistical Variable Types.canvas",
+    "Images/Pasted image 20231121231436.png",
+    "Images/Pasted image 20231031120331.png",
+    "Images/Pasted image 20231013155938.png",
+    "Images/Pasted image 20231013155908.png",
+    "Images/Pasted image 20231013155837.png",
+    "Untitled",
+    "Senior Design",
+    "KnowledgeRepo/MobileRPiDev",
+    "KnowledgeRepo/Python Imports",
+    "DStudioElectronics",
+    "PersonalStuff",
+    "KnowledgeRepo",
+    "Projects",
+    "HORCLab/VST2/Meeting_Notes",
+    "Untitled 1.canvas"
+  ]
+}

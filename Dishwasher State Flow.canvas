@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f9faa56e95252df2","type":"text","text":"Empty","x":-325,"y":-137,"width":125,"height":60},
+		{"id":"914cc60d66d76678","type":"text","text":"Dirty","x":0,"y":-137,"width":120,"height":60},
+		{"id":"e13a4cc0ee43689f","type":"text","text":"Ready To Wash","x":-10,"y":20,"width":140,"height":60},
+		{"id":"841d785928328320","type":"text","text":"Clean","x":-322,"y":20,"width":120,"height":60}
+	],
+	"edges":[
+		{"id":"5d94f23ea2419fed","fromNode":"f9faa56e95252df2","fromSide":"right","toNode":"914cc60d66d76678","toSide":"left","label":"Dishes Loaded"},
+		{"id":"fc8b2a9f65841e88","fromNode":"914cc60d66d76678","fromSide":"bottom","toNode":"e13a4cc0ee43689f","toSide":"top","label":"Detergent Added"},
+		{"id":"9cd7d2ad3298cbb7","fromNode":"e13a4cc0ee43689f","fromSide":"left","toNode":"841d785928328320","toSide":"right","label":"Cycle Run"},
+		{"id":"7e7d8a62d07ae2b9","fromNode":"841d785928328320","fromSide":"top","toNode":"f9faa56e95252df2","toSide":"bottom","label":"Unloaded"}
+	]
+}

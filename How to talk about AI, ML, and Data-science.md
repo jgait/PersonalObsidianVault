@@ -1,0 +1,1 @@
+The majority of time we talk to people, they won't be AI experts. 

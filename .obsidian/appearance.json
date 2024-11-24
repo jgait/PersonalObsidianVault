@@ -1,0 +1,9 @@
+{
+  "accentColor": "#7053d0",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "image_align"
+  ]
+}

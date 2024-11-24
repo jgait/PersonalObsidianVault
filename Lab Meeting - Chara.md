@@ -1,0 +1,2 @@
+- Prosthetics don't have the same proprioceptive capacity that people do which allows us to modify how we walk on compliant terrain
+- Charas controller is a mid level controller

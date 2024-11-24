@@ -1,0 +1,14 @@
+### June 17
+- [x] big can fire roasted tomatoes
+- [x] Garlic
+- [x] Olive oil
+- [x] Red bell pepper
+- [ ] Feta
+- [x] Yellow onion
+- [x] Adobo chilli powder
+- [x] Kosher salt
+- [x] Good bread
+- [x] Cumin
+- [x] Yogurt
+- [x] Blueberries
+- [x] Snackies

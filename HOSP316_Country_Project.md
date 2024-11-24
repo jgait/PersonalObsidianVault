@@ -1,0 +1,16 @@
+- Groups of 2 to 3
+- Presentations should include
+	- **0)** Map of where the place is in the world
+	- **0)** A short intro on the history of the country
+	- **1)** Unique cultural traditions and practices
+		- food, dance, holidays/holy stuff
+	- **2)** Business Etiquette
+		- Business cards
+		- Punctuality
+		- Bringing stuff for the meeting
+	- **3)** Social and Dining Etiquette
+		- Ways of greeting
+		- Ways of eating
+		- Customs when invited to someone’s home
+	- **4)** Any interesting facts
+		- Things that can relate to the contemporary stuff going on in the country and might be used as an icebreaker
