@@ -35,45 +35,9 @@
               "icon": "lucide-file",
               "title": "Personal Website Re-Vamp"
             }
-          },
-          {
-            "id": "dbc86549b98d60ae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
-            "id": "439c4d1a619a6d94",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "24a9ee9c7af8a981",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Open Ai ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -297,11 +262,13 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-reset-font-size:Reset Font Size": false
+      "obsidian-reset-font-size:Reset Font Size": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "439c4d1a619a6d94",
+  "active": "81086c8c36ba8f1f",
   "lastOpenFiles": [
+    "OPEN AI Keys.md",
     "Personal Website Re-Vamp.md",
     "Git No GPG Agent.md",
     "Nullity.md",
@@ -331,7 +298,6 @@
     "Choosing a Model.md",
     "Daily Notes/2024-04-02.md",
     "Images/225F53AC-0506-4C75-AE8A-BC518C196D17.webp",
-    "3D Printing Info Board.md",
     "Dishwasher State Flow.canvas",
     "Images/Pasted image 20240310232751.png",
     "Images/Pasted image 20240226114314.png",
