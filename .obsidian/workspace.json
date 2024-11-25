@@ -17,8 +17,8 @@
                 "file": "School Kanban.md"
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-trello",
+              "title": "School Kanban"
             }
           },
           {
@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Website Re-Vamp.md",
+                "file": "Architecture Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Website Re-Vamp"
+              "title": "Architecture Design"
             }
           }
         ],
@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Personal Website Re-Vamp.md"
+                "file": "Architecture Design.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Personal Website Re-Vamp"
+              "title": "File properties for Architecture Design"
             }
           }
         ],
@@ -268,8 +267,14 @@
   },
   "active": "81086c8c36ba8f1f",
   "lastOpenFiles": [
-    "OPEN AI Keys.md",
+    "Analog Data Acquisition.md",
+    "AI, ML and DL.md",
+    "School Kanban.md",
+    "PersonalStuff/Books.md",
+    "PersonalStuff/Europe Packing List.md",
+    "Statistical Variable Types.canvas",
     "Personal Website Re-Vamp.md",
+    "OPEN AI Keys.md",
     "Git No GPG Agent.md",
     "Nullity.md",
     "RPi Pico (rp2040) Notebook.md",
@@ -285,23 +290,17 @@
     "Bioinspired Compliant Projectile.md",
     "HORCLab/Group Meeting Notes/Camryn - Ankle Foot Prosthetic.md",
     "Architecture Design.md",
-    "School Kanban.md",
     "().md",
     "Bio Morphology.md",
     "Recipe Box.md",
     "AGzen Interview.md",
-    "Daily Notes/2024-04-03.md",
     "www.YouTube.com",
     "Images/Pasted image 20240402205318.png",
     "Images/Pasted image 20240402193326.png",
-    "Bayesian Statistics.md",
-    "Choosing a Model.md",
-    "Daily Notes/2024-04-02.md",
     "Images/225F53AC-0506-4C75-AE8A-BC518C196D17.webp",
     "Dishwasher State Flow.canvas",
     "Images/Pasted image 20240310232751.png",
     "Images/Pasted image 20240226114314.png",
-    "Statistical Variable Types.canvas",
     "Images/Pasted image 20231121231436.png",
     "Images/Pasted image 20231031120331.png",
     "Images/Pasted image 20231013155938.png",
